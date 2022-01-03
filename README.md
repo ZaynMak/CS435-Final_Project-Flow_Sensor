@@ -145,3 +145,15 @@ When we brought out the ideas of this project to Professor Vaccari, he suggested
 
 ###### Smart Home
 Another major future goal we had, was to connect with Smart Home devices such as Amazon Alexa or Google Nest to help monitor users' usage across the home, whether that be a sensor on the main water pipe, or several sensors spread out to monitor individiual rooms. We think that it would be a great addition to be able to easily access data to see how the users are doing, but we understand it is a long journey to get third party apps and devices hooked up with these already established devices. A dream of ours would be able ot ask Alexa how much water has the user used in the past day, or the Google Nest displaying warnings or messages of unusual water useage.   
+
+<br/>
+
+## References
+
+- https://thingspeak.com/pages/learn_more
+- https://github.com/mathworks/thingspeak-arduino
+- https://medium.com/mathworks/send-email-alerts-from-thingspeak-e8d2294d0e64
+- https://esp32io.com/tutorials/esp32-piezo-buzzer
+- https://theorycircuit.com/water-flow-sensor-yf-s201-arduino-interface/
+- https://learn.adafruit.com/adafruit-128x64-oled-featherwing?view=all
+- https://components101.com/sites/default/files/component_datasheet/YF-S201-Datasheet.pdf
